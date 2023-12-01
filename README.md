@@ -1,2 +1,2 @@
 # portfolio
-(https://lordlughas.github.io/portfolio/)[click me!]
+[click me!](https://lordlughas.github.io/portfolio/)
